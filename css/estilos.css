@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    outline: none;
+    box-sizing: border-box;
+
+}
+body{
+    background: chartreuse;
+}
+main{
+    width: 80vw;
+    background: brown;
+}
