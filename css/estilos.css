@@ -69,5 +69,10 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(247, 213, 213);
+    background: rgb(129, 124, 124);
+    
+}
+footer p{
+    color: #FFF;
+    font-size: 18px;
 }
