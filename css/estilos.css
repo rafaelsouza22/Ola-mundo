@@ -21,23 +21,8 @@ main{
     padding: 10px;
 
 }
-main article > p{
-    display: flex;
-    /* padding: 20px 0px; */
-    margin: 20px 0px;
-    /* background: lightgreen; */
-    align-items: center;
-}
-main article p > img{
-    height: 70px;
-    width: 70px;
-    border-radius: 100%;
-    margin: 10px 10px;
-    /* float: left; */
-}
-
 main header{
-    height: 70px;
+    height: 100px;
     width: initial;
     /* background: lawngreen; */
 }
@@ -45,6 +30,20 @@ main header h1{
     color: #f00;
     font-size: 30px;
 }
+main header p{
+    display: flex;
+    margin: 20px 0px;
+    align-items: center;
+}
+main header p img{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin: 10px 10px;
+    
+}
+
+
 
 main article fieldset{
     padding: 10px;
