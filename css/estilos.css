@@ -7,6 +7,7 @@
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    list-style: none;
     
 }
 body{
@@ -19,4 +20,36 @@ main{
     background: rgb(245, 245, 245);
     padding: 10px;
 
+}
+main article > p{
+    display: block;
+    /* padding: 20px 0px; */
+    margin: 20px;
+}
+main header{
+    height: 70px;
+    width: initial;
+    background: lawngreen;
+}
+main header h1{
+    color: #f00;
+    font-size: 30px;
+}
+
+main article fieldset{
+    padding: 10px;
+}
+main article fieldset p{
+    margin-bottom: 10px;
+}
+main article fieldset ul li a{
+    color: rgb(0, 58, 204);
+}
+main article fieldset ul li a:hover{
+    color: #c00;
+}
+
+footer{
+    height: 70px;
+    background: rgb(247, 213, 213);
 }
