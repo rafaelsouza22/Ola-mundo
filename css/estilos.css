@@ -8,7 +8,6 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     list-style: none;
-    
 }
 body{
     background: rgb(200, 171, 248);
@@ -19,12 +18,10 @@ main{
     box-shadow: 3px 3px 6px rgba(0, 0, 0, .5);
     background: rgb(245, 245, 245);
     padding: 10px;
-
 }
 main header{
     height: 100px;
     width: 100%;
-    /* background: chocolate; */
 }
 main header h1{
     color: #f00;
@@ -34,7 +31,6 @@ main header p{
     display: flex;
     margin: 20px 0px;
     align-items: center;
-    /* background: cornflowerblue; */
 }
 main header p img{
     height: 70px;
@@ -43,8 +39,6 @@ main header p img{
     margin: 10px 10px;
     
 }
-
-
 
 main article fieldset{
     padding: 10px;
@@ -61,7 +55,6 @@ main article fieldset ul li a:hover{
 button{
     margin: 20px 0px;
     padding: 5px 10px;
-
 }
 
 footer{
@@ -70,8 +63,8 @@ footer{
     justify-content: center;
     align-items: center;
     background: rgb(129, 124, 124);
-    
 }
+
 footer p{
     color: #FFF;
     font-size: 18px;
