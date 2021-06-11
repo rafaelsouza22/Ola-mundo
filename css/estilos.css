@@ -15,7 +15,7 @@ body{
 }
 main{
     width: 70vw;
-    margin: auto;
+    margin: 0px auto;
     box-shadow: 3px 3px 6px rgba(0, 0, 0, .5);
     background: rgb(245, 245, 245);
     padding: 10px;
@@ -23,8 +23,8 @@ main{
 }
 main header{
     height: 100px;
-    width: initial;
-    /* background: lawngreen; */
+    width: 100%;
+    /* background: chocolate; */
 }
 main header h1{
     color: #f00;
@@ -34,6 +34,7 @@ main header p{
     display: flex;
     margin: 20px 0px;
     align-items: center;
+    /* background: cornflowerblue; */
 }
 main header p img{
     height: 70px;
